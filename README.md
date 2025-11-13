@@ -1,16 +1,16 @@
 # Portfolio1
 
-Mon premier portfolio pour présenter mes projets et compétences en développement web.
+My first portfolio to showcase my projects and web development skills.
 
-## À propos
-Ce portfolio contient des exemples de mes projets en HTML, CSS et JavaScript. Il sert à montrer mes compétences et mes réalisations personnelles dans le développement web.
+## About
+This portfolio contains examples of my projects using HTML, CSS, and JavaScript. It is designed to demonstrate my personal projects and web development abilities.
 
-## Technologies utilisées
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
 ## Installation
-1. Cloner le dépôt :  
+1. Clone the repository:  
 ```bash
 git clone https://github.com/dorcasvan/Portfolio1.git
