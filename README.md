@@ -14,3 +14,4 @@ This portfolio contains examples of my projects using HTML, CSS, and JavaScript.
 1. Clone the repository:  
 ```bash
 git clone https://github.com/dorcasvan/Portfolio1.git
+2. Open index.html in a browser to view the portfolio.
